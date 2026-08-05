@@ -18,12 +18,17 @@ This project demonstrates how to control four DC motors using an Arduino Uno and
 
 ## 📂 Files
 - `Motor_Control.ino` – Arduino source code
+- `README.md` – Project documentation
+- `Circuit1.png` – Circuit diagram
 
 ## 🖼️ Circuit Diagram
 
 ![Circuit Diagram](Circuit1.png)
 
 ## 🔗 Tinkercad Project
+
+View the simulation here:
+
 https://www.tinkercad.com/things/7KZRTqyj7vY-motorcontrol?sharecode=mjZ7lCPuXAobLNcE14nF1pEEGjVPeaRpgiMsA48tojs
 
 ## 📖 How It Works
@@ -34,7 +39,7 @@ https://www.tinkercad.com/things/7KZRTqyj7vY-motorcontrol?sharecode=mjZ7lCPuXAob
 5. Repeats the sequence continuously.
 
 ## ✨ Features
-- Four DC motor control
+- Control of four DC motors
 - Forward and backward movement
 - Right and left turning
 - Simple Arduino implementation
