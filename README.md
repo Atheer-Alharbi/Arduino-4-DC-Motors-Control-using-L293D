@@ -20,9 +20,6 @@ This project demonstrates how to control four DC motors using an Arduino Uno and
 - `Motor_Control.ino` – Arduino source code
 
 ## 🖼️ Circuit Diagram
-Insert your Tinkercad circuit image here.
-
-Example:
 
 ```md
 ![Circuit Diagram](Circuit1.png)
